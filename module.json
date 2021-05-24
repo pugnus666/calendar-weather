@@ -8,7 +8,7 @@
   "author": "Jeffrey Apa [pugnus666#8989], Michael Sebelski [DasSauerkraut#3215], about-time by tposney#1462",
   "url": "https://github.com/DasSauerkraut/calendar-weather",
   "manifest": "https://raw.githubusercontent.com/pugnus666/calendar-weather/master/package/module.json",
-  "download": "https://github.com/pugnus666/calendar-weather/raw/master/package/calendar-weather-v3.1.2.zip",
+  "download": "https://github.com/pugnus666/calendar-weather/raw/master/package/calendar-weather-v4.0.zip",
   "esmodules": [
     "init.mjs",
     "modules/registerSettings.mjs",
