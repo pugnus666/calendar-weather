@@ -161,11 +161,11 @@ export class WeatherTracker {
           break;
         case "polar":
           this.climateHumidity = 0;
-          this.climateTemp = -50;
+          this.climateTemp = -82;
           this.climate = "polar";
           this.tempRange = {
-            max: 10,
-            min: -170
+            max: -5,
+            min: -120
           }
           this.generate(true)
           break;
